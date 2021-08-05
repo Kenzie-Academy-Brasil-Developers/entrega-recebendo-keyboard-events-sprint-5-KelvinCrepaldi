@@ -1,5 +1,5 @@
 body{
-    background-image: url(/src/Background.png);
+    background-image: url(src/Background.png);
 }
 
 #box {
@@ -8,7 +8,7 @@ body{
     position: absolute;
     left: 200px;
     top: 200px;
-    background-image: url(/src/dorime.gif);
+    background-image: url(src/dorime.gif);
     background-size: 100% 100%;
     border: 1px solid black;
     box-shadow: 1px 1px 6px 2px;
