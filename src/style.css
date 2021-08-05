@@ -1,15 +1,14 @@
 body{
-    background-image: url(/Background.png);
+    background-image: url(/src/Background.png);
 }
 
 #box {
     width: 100px;
     height: 100px;
     position: absolute;
-    background: gray;
     left: 200px;
     top: 200px;
-    background-image: url(/dorime.gif);
+    background-image: url(/src/dorime.gif);
     background-size: 100% 100%;
     border: 1px solid black;
     box-shadow: 1px 1px 6px 2px;
